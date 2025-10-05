@@ -7,11 +7,11 @@ typedef struct {
     char cor[10];
     int tropas;
 
-} Terrritorio;
+} Territorio;
 
 int main(){
 
-    Terrritorio territorio[5];
+    Territorio territorio[5];
 
    printf("=========================================================\n");
    printf("Vamos cadastrar os 5 territorios iniciais do nosso mundo.\n");
